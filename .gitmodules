@@ -1,0 +1,3 @@
+[submodule "earthquake"]
+	path = earthquake
+	url = https://github.com/itc-n23029/earthquake_API
